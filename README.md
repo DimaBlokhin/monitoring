@@ -1,5 +1,5 @@
 # monitoring
-Example of add the settings and tesing the monitoring service
+Пример добавления настроек, запуска и тестирования сервисов мониторинга
 
 # Описание проекта:
 В этом проекте мы добавим мониторинг к нашему веб-приложению, используя Prometheus для сбора метрик и Grafana для визуализации этих данных. Также настроим журналирование с использованием ELK Stack (Elasticsearch, Logstash, Kibana).
